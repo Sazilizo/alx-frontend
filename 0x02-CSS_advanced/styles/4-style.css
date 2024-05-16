@@ -1,0 +1,10 @@
+:root{
+    --font-family-base: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    --font-family-title: var(--font-family-base);
+}
+body{
+    font-family: var(--font-family-base);
+}
+section h2{
+    font-family: var(--font-family-title);
+}
